@@ -1,0 +1,5 @@
+Coldbru storefront.
+
+- Flavored cold brew subscription (weekly / monthly)
+- Brand tokens: app/lib/branding.js
+- Connect a Shopify store: npx shopify hydrogen link
